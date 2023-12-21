@@ -1,0 +1,37 @@
+body {
+  background-color: #f7f7f7;
+}
+
+.boxes {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+.box1 {
+  width: 315px;
+  height: 147px;
+  background-color: #0865de;
+}
+
+.white-box {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 1260px;
+}
+
+.kanye {
+  width: 200px;
+  border-radius: 50%;
+}
+
+h4 {
+  text-align: center;
+}
+
+.box2 {
+  width: ;
+}
